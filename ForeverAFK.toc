@@ -1,0 +1,10 @@
+## Title: ForeverAFK
+## Notes: When turned on prevents you from logging out. Only works when not resting (capital city or inn)
+## Interface: 20400
+## Version: 1.0
+## Author: Bigzero
+## X-Category: Miscellaneous
+## X-eMail: vinaur@gmail.com
+## X-Credits: Xinhuan (simplified to not use Ace2)
+
+ForeverAFK.lua
